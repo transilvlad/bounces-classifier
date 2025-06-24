@@ -1,2 +1,2 @@
-# bounces
-A selection of email bounces from my collection
+# Bounces-Classifier
+An old PHP based bounces classifier and a small selection of email bounces used to test it.
