@@ -1,0 +1,116 @@
+Delivered-To: mailfrom-2.johndoe-at-example.com@example.com
+Return-Path: <>
+Received: from ndabbmr1.example.com (ndabbmr1-a-fixed.example.com [218.248.240.99])
+	by mx.example.com (envelope-from )
+	(Xmail) with ESMTP id DGNMK3UQXEI6B4NWYKWP.05.02.2013.09.51.57
+	for <mailfrom-2.johndoe-at-example.com@example.com>;
+	Tue, 05 Feb 2013 09:51:57 -0000
+X-Spam-Level: 
+X-Spam-Score: 0.0
+Received: from conversion-daemon.ndabbmr1.example.com by ndabbmr1.example.com
+ (Sun Java System Messaging Server 6.2-6.01 (built Apr  3 2006))
+ id <0MHQ00701RFJ5A00@ndabbmr1.example.com> for
+ mailfrom-2.johndoe-at-example.com@example.com; Tue,
+ 05 Feb 2013 15:23:56 +0530 (IST)
+Received: from nppa.example.com ([10.17.18.27])
+ by ndabbmr1.example.com (Sun Java System Messaging Server 6.2-6.01 (built Apr 3
+ 2006)) with ESMTP id <0MHQ001M8RHWDJ50@ndabbmr1.example.com> for
+ mailfrom-2.johndoe-at-example.com@example.com; Tue,
+ 05 Feb 2013 15:23:56 +0530 (IST)
+Received: from process-daemon.nppa.example.com by nppa.example.com
+ (Sun Java System Messaging Server 6.2-8.04 (built Feb 28 2007))
+ id <0MHQ00M01RJCM200@nppa.example.com> for
+ mailfrom-2.johndoe-at-example.com@example.com; Tue,
+ 05 Feb 2013 15:33:19 +0530 (IST)
+Received: from nppa.example.com
+ (Sun Java System Messaging Server 6.2-8.04 (built Feb 28 2007))
+ id <0MHQ00MLMRXJ9L60@nppa.example.com>; Tue, 05 Feb 2013 15:33:19 +0530 (IST)
+Date: Tue, 05 Feb 2013 15:33:19 +0530 (IST)
+From: Internet Mail Delivery <postmaster@example.com>
+Subject: Delivery Notification: Delivery has failed
+To: mailfrom-2.johndoe-at-example.com@example.com
+Message-id: <0MHQ00MLORXJ9L60@nppa.example.com>
+MIME-version: 1.0
+Content-type: multipart/report;
+ boundary="Boundary_(ID_hZDAPRQS18qkCNZwaN34QQ)"; report-type=delivery-status
+
+
+--Boundary_(ID_hZDAPRQS18qkCNZwaN34QQ)
+Content-type: text/plain; charset=us-ascii
+Content-language: en-US
+Content-transfer-encoding: 7BIT
+
+This report relates to a message you sent with the following header fields:
+
+  Message-id: <NNoBrC9OZMNNoBrC9OZM-1360057902@example.com>
+  Date: Tue, 05 Feb 2013 09:51:42 +0000
+  From: <janedoe@example.com>
+  To: johndoe@example.com
+  Subject: Our home improvements business opportunity
+
+Your message cannot be delivered to the following recipients:
+
+  Recipient address: johndoe@example.com
+
+  Reason: Over quota
+
+
+--Boundary_(ID_hZDAPRQS18qkCNZwaN34QQ)
+Content-type: message/delivery-status
+
+Original-envelope-id: 0MHQ00522RHW7D00@ndabbmx1.example.com
+Reporting-MTA: dns;nppa.example.com (ims-ms-daemon)
+
+Original-recipient: rfc822;johndoe@example.com
+Final-recipient: rfc822;johndoe@example.com
+Action: failed
+Status: 5.314.904 (Over quota)
+
+--Boundary_(ID_hZDAPRQS18qkCNZwaN34QQ)
+Content-type: text/rfc822-headers
+
+Return-path: <mailfrom-2.johndoe-at-example.com@example.com>
+Received: from ims-ms-daemon.nppa.example.com by nppa.example.com
+ (Sun Java System Messaging Server 6.2-8.04 (built Feb 28 2007))
+ id <0MHQ00MLMRXJ9L60@nppa.example.com>; Tue, 05 Feb 2013 15:33:19 +0530 (IST)
+Received: from ndabbmx1-a-fixed.example.com ([10.17.18.15])
+ by nppa.example.com (Sun Java System Messaging Server 6.2-8.04 (built Feb 28
+ 2007)) with ESMTP id <0MHQ00MFORXJIY50@nppa.example.com> for
+ johndoe@example.com; Tue, 05 Feb 2013 15:33:19 +0530 (IST)
+Received: from conversion-daemon.ndabbmx1.example.com by ndabbmx1.example.com
+ (Sun Java System Messaging Server 6.2-6.01 (built Apr  3 2006))
+ id <0MHQ00501RFT7D00@ndabbmx1.example.com>
+ (original mail from mailfrom-2.johndoe-at-example.com@example.com)
+ for johndoe@example.com (ORCPT johndoe@example.com)
+ ; Tue, 05 Feb 2013 15:23:56 +0530 (IST)
+Received: from mail.example.com ([67.210.233.92])
+ by ndabbmx1.example.com
+ (Sun Java System Messaging Server 6.2-6.01 (built Apr  3 2006))
+ with SMTP id <0MHQ0082URHPCUD0@ndabbmx1.example.com> for
+ johndoe@example.com (ORCPT johndoe@example.com); Tue,
+ 05 Feb 2013 15:23:56 +0530 (IST)
+Content-return: prohibited
+Date: Tue, 05 Feb 2013 09:51:42 +0000
+From: <janedoe@example.com>
+Subject: Our home improvements business opportunity
+To: johndoe@example.com
+Message-id: <NNoBrC9OZMNNoBrC9OZM-1360057902@example.com>
+MIME-version: 1.0
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_1FBpHqp1LdHgiRr6bJLq6w)"
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=12335; s=default;	t=1360057902;
+ c=relaxed/simple; d=example.com; i=matthew@example.com;
+	h=Subject:From:To:Date:Message-Id:MIME-Version:Content-Type;
+	bh=ydNZxXDbM9pwKGppv8lSGkjVTJE=;
+	b=Ow5tHPImuBeGO/crXmRBx9t+S0+kcTPDPZd7l64nOWrKgK60IPVb6bwH2vQhR2sU87PBeWfGHgdW
+	weMVlHXX+WuSHXM6n+TKAr8Bi+1qZQqPVEyidSiKLgPxVWCZsl/Lp6YunaA2yXE73odDyTLy7NL9
+	PwBK/arQAvY9Voy3Ljs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=example.com; s=default;
+	h=Subject:From:To:Date:Message-Id:MIME-Version:Content-Type;
+	b=b8Zp5EimInCPrYeZOxHO9dGIoNPDkBCx0AaHaFZ1JjwhRkofPaiV20Zl8mMnXEuhQ1dBQKw+jKvY
+	cftM+1yuqh5vRUfC6WYdxHQ8uKJExGqfRTAVUhRi9ZrJ1yE0sTw5+5+zaOqBiTt3tbr7xvU/r2oR
+	FYbvHD2dJMjSNaQopXY=
+List-Unsubscribe:
+ <mailto:unsubscribe-2.johndoe-at-example.com@example.com>
+
+--Boundary_(ID_hZDAPRQS18qkCNZwaN34QQ)--

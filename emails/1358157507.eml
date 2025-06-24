@@ -1,0 +1,88 @@
+Delivered-To: mailfrom-2.johndoe-at-example.com@example.com
+Return-Path: <>
+Received: from mk-outboundfilter-5-a-2.mail.uk.tiscali.com (mk-outboundfilter-5-a-2.mail.uk.tiscali.com [212.74.114.4])
+	by mx.example.com (envelope-from )
+	(Xmail) with ESMTP id SQMAGLRY8T0ISNGKVDA5.14.01.2013.09.58.27
+	for <mailfrom-2.johndoe-at-example.com@example.com>;
+	Mon, 14 Jan 2013 09:58:27 -0000
+X-Spam-Level: 
+X-Spam-Score: 0.0
+X-Trace: 595967440/mk-outboundfilter-5.mail.uk.tiscali.com/F2S/$THROTTLED_STATIC/f2s-nildram-customers/84.12.219.98/None/
+X-SBRS: None
+X-RemoteIP: 84.12.219.98
+X-IP-MAIL-FROM: 
+X-SMTP-AUTH: 
+X-Originating-Country: GB/UNITED KINGDOM
+X-IP-Bounce: TRUE
+X-MUA: 
+X-IP-BHB: Once
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvQHAA7W81BUDNti/2dsb2JhbACDdIMKpREBkjAWc4JIK2chAhEQEjQHBAEbAQSHfAiVIo5RK4hkhnGMdhCDFTJkjTqIUAGBHIQ8inGCdYFoBxc
+X-IP-Direction: IN
+Received: from mail.example.com ([84.12.219.98])
+  by smtp.f2s.tiscali.co.uk with ESMTP; 14 Jan 2013 09:58:24 +0000
+Received: by mail.example.com (Postfix)
+	id 6717223B8B; Mon, 14 Jan 2013 09:55:56 +0000 (GMT)
+Date: Mon, 14 Jan 2013 09:55:56 +0000 (GMT)
+From: MAILER-DAEMONexample.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mailfrom-2.johndoe-at-example.com@example.com
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="EB4A223B8C.1358157356/mail.example.com"
+Message-Id: <20130114095556.6717223B8B@mail.example.com>
+
+This is a MIME-encapsulated message.
+
+--EB4A223B8C.1358157356/mail.example.com
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host mail.example.com.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The Postfix program
+
+<johndoeexample.com>: host 192.168.201.206[192.168.201.206] said:
+    550 5.7.1 Message rejected as spam by Content Filtering. (in reply to end
+    of DATA command)
+
+--EB4A223B8C.1358157356/mail.example.com
+Content-Description: Delivery error report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.example.com
+Arrival-Date: Mon, 14 Jan 2013 09:55:38 +0000 (GMT)
+
+Final-Recipient: rfc822; johndoeexample.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host 192.168.201.206[192.168.201.206] said: 550
+    5.7.1 Message rejected as spam by Content Filtering. (in reply to end of
+    DATA command)
+
+--EB4A223B8C.1358157356/mail.example.com
+Content-Description: Undelivered Message
+Content-Type: text/rfc822-headers
+
+Received: by mail.example.com (Postfix, from userid 27)
+	id EB4A223B8C; Mon, 14 Jan 2013 09:55:38 +0000 (GMT)
+Received: from mail.example.com (unknown [67.210.233.90])
+	by mail.example.com (Postfix) with SMTP id D54A923B8B
+	for <johndoeexample.com>; Mon, 14 Jan 2013 09:55:37 +0000 (GMT)
+Subject: Is 2013 the year you will run your own Management Franchise?
+From: <janedoe@example.com>
+To: "<johndoe"@dct-civils.co
+Date: Mon, 14 Jan 2013 09:55:26 +0000
+Message-Id: <GydpZYH97EGydpZYH97E-1358157326@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="554f9b664205be0b468cd28ed42db2c1"
+
+--EB4A223B8C.1358157356/mail.example.com--

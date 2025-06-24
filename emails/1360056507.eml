@@ -1,0 +1,253 @@
+Delivered-To: mailfrom-2.johndoe-at-example.com@example.com
+Return-Path: <>
+Received: from relay4.example.com (relay4.example.com [203.121.65.166])
+	by mx.example.com (envelope-from )
+	(Xmail) with ESMTP id 9OAN4Z13ABK7BWG8NG80.05.02.2013.09.28.25
+	for <mailfrom-2.johndoe-at-example.com@example.com>;
+	Tue, 05 Feb 2013 09:28:25 -0000
+X-Spam-Level: ++++
+X-Spam-Score: 4.3
+Received: from [10.20.0.226] (helo=carp.example.com)
+	by relay4.example.com with esmtp (Exim 4.77 (FreeBSD))
+	id 1U2ep1-000P9U-Eo
+	for mailfrom-2.johndoe-at-example.com@example.com; Tue, 05 Feb 2013 17:28:17 +0800
+Received: (qmail 10040 invoked for bounce); 5 Feb 2013 17:28:12 +0800
+Date: 5 Feb 2013 17:28:12 +0800
+From: MAILER-DAEMON@carp.example.com
+To: mailfrom-2.johndoe-at-example.com@example.com
+Message-Id: <E1U2ep1-000P9U-Eo@relay4.example.com>
+X-SA-Exim-Connect-IP: 10.20.0.226
+X-SA-Exim-Mail-From: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on relay4.example.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.0 required=6.5 tests=ALL_TRUSTED
+	autolearn=disabled version=3.3.2
+Subject: failure notice
+X-SA-Exim-Version: 4.2
+X-SA-Exim-Scanned: Yes (on relay4.example.com)
+
+Hi. This is the qmail-send program at carp.example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<johndoe@example.com>:
+user is over quota
+
+
+--- Below this line is a copy of the message.
+
+Return-Path: <mailfrom-2.johndoe-at-example.com@example.com>
+Received: (qmail 10036 invoked by uid 509); 5 Feb 2013 17:28:12 +0800
+Received: from unknown (HELO relay3.example.com) (10.20.0.165)
+  by carp.example.com with AES256-SHA encrypted SMTP; 5 Feb 2013 17:28:12 +0800
+Received: from [67.210.232.51] (helo=mail.example.com)
+	by relay3.example.com with smtp (Exim 4.77 (FreeBSD))
+	(envelope-from <mailfrom-2.johndoe-at-example.com@example.com>)
+	id 1U2UA2-000JAZ-9X
+	for johndoe@example.com; Tue, 05 Feb 2013 06:05:17 +0800
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=12297; s=default; 
+	t=1360056483; c=relaxed/simple; d=example.com; i=matthew@example.com;
+	h=Subject:From:To:Date:Message-Id:MIME-Version:Content-Type;
+	bh=XW6X0/njIFdXvWIUPZ+bHXxuJc0=;
+	b=Ilbu4C4RiUpy6aIJ++iKb9YtyNA7/A0My28plpOLf5Slm7nNcnOHoCm2QWe6+fLfqqR56CiCYWY+
+	+m3gquR2DpuY6Aeq7UVOd77hBgA5c7gavR5mFyLdCspEU9fJ+ZdG4ge9nkQFXwKDBpa1toyiQ6ky
+	hdqswhN5BtSbS6/TXdo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=example.com; s=default; 
+	h=Subject:From:To:Date:Message-Id:MIME-Version:Content-Type;
+	b=g3rUi6sbPy4KOfTc8/Af+BUAWtPa49+QenTcKzNxtpvPvw0dg9zUfapmUat/Jmpcb3xkEmKtJ2jO
+	gZcgcr8p6x25BmEoBpeUqQPhpLRvUxnLI0LzvoP+R04F2/Wm1fo6cnGIserC2CghYUNaKeVt7vNd
+	u21wj/hKBjmU2vuZzBI=
+From: <janedoe@example.com>
+To: <johndoe@example.com>
+List-Unsubscribe: <mailto:unsubscribe-2.johndoe-at-example.com@example.com>
+Date: Tue, 05 Feb 2013 09:28:03 +0000
+Message-Id: <V7UZ8HJDcXV7UZ8HJDcX-1360056483@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="c93d67f1fc4e3cd85dc6a5d8d4c050d5"
+X-SA-Exim-Connect-IP: 67.210.232.51
+X-SA-Exim-Mail-From: mailfrom-2.johndoe-at-example.com@example.com
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on relay3.example.com
+X-Spam-Level: *
+X-Spam-Status: No, score=1.4 required=6.5 tests=DATE_IN_FUTURE_06_12,
+	DKIM_SIGNED,HTML_MESSAGE,LOTS_OF_MONEY,RDNS_NONE,T_DKIM_INVALID
+	autolearn=disabled version=3.3.2
+Subject: Our home improvements business opportunity
+X-SA-Exim-Version: 4.2
+X-SA-Exim-Scanned: Yes (on relay3.example.com)
+
+--c93d67f1fc4e3cd85dc6a5d8d4c050d5
+Content-Type: text/plain; charset=UTF-8
+
+
+
+
+If you experience problems viewing this newsletter, please click here.
+
+&nbsp;How do you judge the quality of a business opportunity&hellip; on the
+happiness of the existing franchisees!?&nbsp;&ldquo;I&rsquo;m surprised at
+just how well it&rsquo;s going, because I only started the business a
+matter of weeks ago&hellip; I got my first enquiries through the launch
+marketing activity, before I&rsquo;d even officially started my business. I
+have now had three sizeable sales and have a good pipeline for the New
+Year. I am happy to recommend Just Shutters!&rdquo;&nbsp;David Stansbury -
+Just Shutters, Kent&nbsp;Act on your New Year&rsquo;s resolution in 2013
+and become your own boss. If you measure up, Just Shutters will support you
+in building your own local specialist Plantation Shutters business in this
+recession resilient sector of the home improvement industry.&nbsp;The
+headlines:The market leading specialist with the widest UK coverageA brand
+that commands a premium priceExceptional standards; 9.9 out of 10
+see&nbsp;Earn your money back in year oneLow initial investment of
+&pound;20K (inc. VAT)Direct support from Chris Rocker, the owner and
+founderAccredited by the bfa(British Franchise Association)&nbsp;
+&nbsp;&ldquo;Chris and Helen helped me launch my new Just Shutters business
+and we generated some good leads in the first few weeks. I followed the
+system and made six sales in the following month with an average order
+value of&pound;1300.00 each. The support has been fantastic and I highly
+recommend Just Shutters.&rdquo;&nbsp;Sarah Gale - Just Shutters,
+Essex&nbsp;Starting any business from scratch takes time, preparation and
+money. When investing in a Just Shutters franchise, all the leg work has
+been done for you meaning that you will have an established brand,
+impressive reputation and a proven business model behind you from day 1.
+Just Shutters is far more than just becoming your own boss and seeking a
+better work life balance. This is a feel-good business where franchisees
+enjoy the reward of delighted customers.&nbsp;&ldquo;I&rsquo;m approaching
+my second year now, with a thriving local business and a great work-life
+balance. I get a lot of enquiries each month and the conversion rate is
+really good. People really like the quality of the product. If you follow
+the processes you can&rsquo;t go wrong. The initial training is great, but
+it is the tailored ongoing support that has been most valuable to
+me...&rdquo;&nbsp;&nbsp;&nbsp;Andrew Cook &ndash; Franchise Owner,
+Exeter&nbsp;Now is the right time to invest in a Just Shutters franchise.
+Home improvements businesses are booming;with a stagnant property market
+less people are moving and so choosing to improve their homes! The future
+is equally bright for this established growing sector of the
+home-improvements sector. Take control of your future &ndash; find out more
+about how you could own a business MAKING HOMES LOOK
+BEAUTIFUL.&nbsp;&nbsp;
+
+
+This email was sent to you by The Franchise Shop. If you wish to
+unsubscribe from these emails please click here. 
+
+
+--c93d67f1fc4e3cd85dc6a5d8d4c050d5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-size: 13px; font-family: Tahoma;" align=3D"center"><tabl=
+e style=3D"width: 570px; border: 2px solid black;" border=3D"0" cellspacing=
+=3D"2" cellpadding=3D"0"><tbody><tr><td style=3D"border: 1px solid gray;"><=
+table style=3D"width: 100%;"><tbody><tr><td style=3D"padding: 3.75pt 3.75pt=
+ 3.75pt 3.75pt;"><table id=3D"table5" style=3D"width: 100%;" border=3D"0"><=
+tbody><tr><td><p style=3D"margin: 5px; text-align: center;"><span style=3D"=
+font-family: Arial; font-size: 13px;">If you experience problems viewing th=
+is newsletter, please <a href=3D"http://www.example.com/newslett=
+er.html?eref=3D1255+johndoe@example.com&id=3D1254">click here</a>.</span></=
+p></td></tr><tr><td bgcolor=3D"#CEF3FF"><p style=3D"margin-top: 19px;" alig=
+n=3D"center"><a href=3D"http://www.example.com/"><img src=3D"htt=
+p://www.example.com/files/newsletter/logo.png" alt=3D"The Franch=
+ise Shop Logo" width=3D"310" height=3D"63" /></a></p></td></tr></tbody></ta=
+ble><table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0"><tbody><tr><td><p style=3D"margin: 16px 0 0;"><strong><img style=3D=
+"display: block; margin-left: auto; margin-right: auto;" src=3D"../files/ne=
+wsletter/30-01-2013/01.jpg" alt=3D"" width=3D"413" height=3D"77" /></strong=
+></p><p style=3D"margin: 0;">&nbsp;</p><p style=3D"margin: 0;"><span style=
+=3D"color: #7f7f7f; font-size: 24px; font-family: Tahoma;"><strong>How do y=
+ou judge the quality of a business opportunity&hellip; on the happiness of =
+the existing franchisees!?</strong></span></p><p style=3D"margin: 0;">&nbsp=
+;</p><p style=3D"margin: 0;"><em><img style=3D"float: right;" src=3D"../fil=
+es/newsletter/30-01-2013/02.jpg" alt=3D"" width=3D"103" height=3D"96" /></e=
+m></p><p style=3D"margin: 0;"><span style=3D"color: #0070c0; font-family: T=
+ahoma; font-size: 13px;"><em>&ldquo;I&rsquo;m surprised at just how well it=
+&rsquo;s going, because I only started the business a matter of weeks ago&h=
+ellip; I got my first enquiries through the <strong>launch marketing activi=
+ty</strong>, before I&rsquo;d even officially started my business. I have n=
+ow had three sizeable sales and have a good pipeline for the New Year. I am=
+ happy to recommend Just Shutters!&rdquo;</em></span></p><p style=3D"margin=
+: 0;" align=3D"right">&nbsp;</p><p style=3D"margin: 0;" align=3D"right"><sp=
+an style=3D"color: #0070c0; font-family: Tahoma; font-size: 13px;"><strong>=
+David Stansbury - Just Shutters, Kent</strong></span></p><p style=3D"margin=
+: 0;">&nbsp;</p><p style=3D"margin: 0;"><span style=3D"color: #404040; font=
+-family: Tahoma; font-size: 13px;">Act on your New Year&rsquo;s resolution =
+in 2013 and become your own boss. If you measure up, Just Shutters will sup=
+port you in building your own local specialist Plantation Shutters business=
+ in this recession resilient sector of the home improvement industry.</span=
+></p><p style=3D"margin: 0;"><strong>&nbsp;</strong></p><p style=3D"margin:=
+ 0;"><span style=3D"color: #404040; font-family: Tahoma; font-size: 13px;">=
+The headlines:</span></p><ul><li><span style=3D"color: #404040; font-family=
+: Tahoma; font-size: 13px;"><strong>The market leading specialist with the =
+widest UK coverage</strong></span></li><li><span style=3D"color: #404040; f=
+ont-family: Tahoma; font-size: 13px;"><strong>A brand that commands a premi=
+um price</strong></span></li><li><span style=3D"color: #404040; font-family=
+: Tahoma; font-size: 13px;"><strong>Exceptional standards; 9.9 out of 10 se=
+e&nbsp;<img style=3D"vertical-align: top;" src=3D"../files/newsletter/30-01=
+-2013/02b.jpg" alt=3D"" width=3D"72" height=3D"18" /></strong></span></li><=
+li><span style=3D"color: #404040; font-family: Tahoma; font-size: 13px;"><s=
+trong>Earn your money back in year one</strong></span></li><li><span style=
+=3D"color: #404040; font-family: Tahoma; font-size: 13px;"><strong>Low init=
+ial investment of &pound;20K (inc. VAT)</strong></span></li><li><span style=
+=3D"color: #404040; font-family: Tahoma; font-size: 13px;"><strong>Direct s=
+upport from Chris Rocker, the owner and founder</strong></span></li><li><sp=
+an style=3D"color: #404040; font-family: Tahoma; font-size: 13px;"><strong>=
+Accredited by the bfa(British Franchise Association)&nbsp; </strong></span>=
+</li></ul><p style=3D"margin: 0;">&nbsp;</p><p style=3D"margin: 0;"><em><im=
+g style=3D"float: right;" src=3D"../files/newsletter/30-01-2013/03.jpg" alt=
+=3D"" width=3D"103" height=3D"96" /><span style=3D"color: #0070c0;">&ldquo;=
+Chris and Helen helped me launch my new Just Shutters business and we gener=
+ated some good leads in the first few weeks. I followed the system and made=
+ <strong>six sales</strong> in the following month with an <strong>average =
+order value of&pound;1300.00 each</strong>. The support has been fantastic =
+and I highly recommend Just Shutters.&rdquo;</span></em></p><p style=3D"mar=
+gin: 0;" align=3D"right">&nbsp;</p><p style=3D"margin: 0;" align=3D"right">=
+<span style=3D"color: #0070c0; font-family: Tahoma; font-size: 13px;"><stro=
+ng>Sarah Gale - Just Shutters, Essex</strong></span></p><p style=3D"margin:=
+ 0;" align=3D"right">&nbsp;</p><p style=3D"margin: 0;"><span style=3D"color=
+: #404040; font-family: Tahoma; font-size: 13px;">Starting any business fro=
+m scratch takes time, preparation and money. When investing in a Just Shutt=
+ers franchise, all the leg work has been done for you meaning that you will=
+ have an <strong>established brand</strong>, <strong>impressive reputation<=
+/strong> and a <strong>proven business model</strong> behind you from day 1=
+.. Just Shutters is far more than just becoming your own boss and seeking a =
+better work life balance. This is a feel-good business where franchisees en=
+joy the reward of delighted customers.</span></p><p style=3D"margin: 0;">&n=
+bsp;</p><p style=3D"margin: 0;"><img style=3D"float: right;" src=3D"../file=
+s/newsletter/30-01-2013/04.jpg" alt=3D"" width=3D"114" height=3D"114" /><sp=
+an style=3D"color: #0070c0;"><em>&ldquo;I&rsquo;m approaching my second yea=
+r now, with a thriving local business and <strong>a great work-life balance=
+</strong>. I get a lot of enquiries each month and the conversion rate is r=
+eally good. People really like the quality of the product. If you <strong>f=
+ollow the processes you can&rsquo;t go wrong</strong>. The initial training=
+ is great, but it is the tailored ongoing support that has been most valuab=
+le to me...</em>&rdquo;&nbsp;</span></p><p style=3D"margin: 0;" align=3D"ri=
+ght">&nbsp;</p><p style=3D"margin: 0;" align=3D"right">&nbsp;</p><p style=
+=3D"margin: 0;" align=3D"right"><span style=3D"color: #0070c0; font-family:=
+ Tahoma; font-size: 13px;"><strong>Andrew Cook &ndash; Franchise Owner, Exe=
+ter</strong></span></p><p style=3D"margin: 0;" align=3D"right">&nbsp;</p><p=
+ style=3D"margin: 0;"><span style=3D"color: #404040; font-family: Tahoma; f=
+ont-size: 13px;">Now is the right time to invest in a Just Shutters franchi=
+se. Home improvements businesses are booming;with a stagnant property marke=
+t less people are moving and so choosing to improve their homes! The future=
+ is equally bright for this established growing sector of the home-improvem=
+ents sector. Take control of your future &ndash; find out more about how yo=
+u could own a business <strong>MAKING HOMES LOOK BEAUTIFUL</strong>.</span>=
+</p><p style=3D"margin: 0;">&nbsp;</p><p style=3D"margin: 0;"><img style=3D=
+"display: block; margin-left: auto; margin-right: auto;" src=3D"../files/ne=
+wsletter/30-01-2013/05.jpg" alt=3D"" width=3D"444" height=3D"168" /></p><p>=
+&nbsp;</p></td></tr><tr><td><p style=3D"margin: 0;" align=3D"center"><a tit=
+le=3D"Just Shutters" href=3D"http://www.example.com/list/986/jus=
+t-shutters.html?eref=3D1255+johndoe@example.com#search"><img src=3D"http://=
+www.example.com/files/newsletter/button.png" alt=3D"Click here f=
+or more info" width=3D"324" height=3D"57" /></a></p></td></tr></tbody></tab=
+le><table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"><tbody><tr><td><table id=3D"table7" style=3D"width: 100%;" border=3D=
+"0"><tbody><tr><td><p style=3D"border-top: 1px solid #cacaca; color: #666; =
+padding-top: 13px; text-align: center; margin-bottom: 28px;"><span style=3D=
+"font-family: Arial; font-size: 10px;">This email was sent to you by The Fr=
+anchise Shop. If you wish to unsubscribe from these emails please <a style=
+=3D"color: #000;" href=3D"http://www.example.com/unsubscribe.htm=
+l">click here</a>. </span></p></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr></tbody></table></div><img src=
+=3D"http://www.example.com/counter-image/1255-johndoe@example.com.m=
+y.png" alt=3D"" width=3D"1" height=3D"1" />
+
+--c93d67f1fc4e3cd85dc6a5d8d4c050d5--
